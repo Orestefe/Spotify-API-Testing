@@ -1,0 +1,19 @@
+{
+  "name": "spotify-api-testing",
+  "version": "1.0.0",
+  "description": "A repository for testing Spotify APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orestefe/Spotify-API-Testing.git"
+  },
+  "author": "Felipe Orestes <orestefe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orestefe/Spotify-API-Testing/issues"
+  },
+  "homepage": "https://github.com/Orestefe/Spotify-API-Testing#readme"
+}
